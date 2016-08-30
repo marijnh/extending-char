@@ -1,0 +1,21 @@
+{
+  "name": "extending-char",
+  "version": "1.0.0",
+  "description": "Check whether a UTF-16 word is either a continuing word or a Unicode extending character",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijnh/extending-char.git"
+  },
+  "keywords": [
+    "unicode",
+    "character",
+    "extending"
+  ],
+  "author": "Marijn Haverbeke <marijnh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marijnh/extending-char/issues"
+  },
+  "homepage": "https://github.com/marijnh/extending-char#readme"
+}
