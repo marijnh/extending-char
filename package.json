@@ -1,6 +1,6 @@
 {
   "name": "extending-char",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether a UTF-16 word is either a continuing word or a Unicode extending character",
   "main": "index.js",
   "repository": {
